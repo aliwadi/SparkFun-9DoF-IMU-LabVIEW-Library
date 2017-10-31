@@ -1,2 +1,3 @@
 # SparkFun-9DoF-IMU-LabVIEW-Library
-A LabVIEW VI to read the LSM9DS1 IMU
+
+This is a library/driver written in LabVIEW on the myRIO FPGA to read the LSM9DS1 IMU from sparkfun 
